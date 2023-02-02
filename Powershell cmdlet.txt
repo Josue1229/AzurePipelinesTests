@@ -1,0 +1,3 @@
+Go to the file path in the powershell console
+Run the following
+.\getapprovals.ps1 -Token "" -DevopsApiUrl "https://vsrm.dev.azure.com/jfernandez0847/approvals%20dummy/_apis/release/approvals?api-version=7.0" -ServerDB "localhost" -UserDB "" -PassDB ""
